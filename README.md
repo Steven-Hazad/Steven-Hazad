@@ -96,7 +96,7 @@ class HunPhanuth:
 
 <div align="center">
 
-![snake gif](https://github.com/Steven-Hazad/Steven-Hazad/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Steven-Hazad/Steven-Hazad/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -140,11 +140,11 @@ Then go to **Actions tab → enable workflows → run manually once**.
 
 | | |
 |---|---|
-| 🌐 Portfolio | [hunphanuth.vercel.app](https://hunphanuth.vercel.app/) |
-| 💼 LinkedIn | [hun-phanuth-9617b1354](https://www.linkedin.com/in/hun-phanuth-9617b1354/) |
-| 📘 Facebook | [hun.phanuth.2025](https://www.facebook.com/hun.phanuth.2025) |
-| 📸 Instagram | [ste7en.haz4d](https://www.instagram.com/ste7en.haz4d/) |
-| 📧 Email | [phanuth.hun@gmail.com](mailto:phanuth.hun@gmail.com) |
+|  Portfolio | [hunphanuth.vercel.app](https://hunphanuth.vercel.app/) |
+|  LinkedIn | [hun-phanuth-9617b1354](https://www.linkedin.com/in/hun-phanuth-9617b1354/) |
+|  Facebook | [hun.phanuth.2025](https://www.facebook.com/hun.phanuth.2025) |
+|  Instagram | [ste7en.haz4d](https://www.instagram.com/ste7en.haz4d/) |
+|  Email | [phanuth.hun@gmail.com](mailto:phanuth.hun@gmail.com) |
 
 *Have a project in mind? Let's build something great together.* 🚀
 
