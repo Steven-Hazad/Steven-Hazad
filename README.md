@@ -1,29 +1,34 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Steven%20Hazad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Cloud%20Explorer&descAlignY=55&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HUN%20PHANUTH&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=System%20Architect%20%7C%20CS%20%C3%97%20Air%20Traffic%20Management&descAlignY=58&descSize=17)
 
-<!-- Animated typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Steven+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Data+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Always+learning+something+new+%F0%9F%8C%B1;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Phanuth+%F0%9F%91%8B;Computer+Science+%C3%97+Air+Traffic+Management+%E2%9C%88%EF%B8%8F;Full-Stack+Developer+%F0%9F%92%BB;Clean+architecture.+Systems+that+breathe.+%F0%9F%8C%AC;Building+for+high+traffic.+Zero+compromises.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Profile views + socials -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-hunphanuth.vercel.app-black?style=flat-square&logo=vercel&logoColor=white)](https://hunphanuth.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hun%20Phanuth-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hun-phanuth-9617b1354/)
+[![Facebook](https://img.shields.io/badge/Facebook-hun.phanuth-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/hun.phanuth.2025)
+[![Instagram](https://img.shields.io/badge/Instagram-ste7en.haz4d-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ste7en.haz4d/)
+[![Gmail](https://img.shields.io/badge/Gmail-phanuth.hun@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:phanuth.hun@gmail.com)
 [![](https://komarev.com/ghpvc/?username=Steven-Hazad&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/Steven-Hazad)
 
 </div>
 
 ---
 
-## 🙋 About Me
+## 🧑‍💻 About Me
 
 ```python
-class Steven:
-    name       = "Steven Hazad"
-    role       = "Full-Stack Developer & Data Enthusiast"
-    languages  = ["Python", "JavaScript", "C#", "Java", "PHP", "C/C++", "R"]
-    cloud      = ["AWS", "Google Cloud", "Vercel"]
-    databases  = ["MySQL", "PostgreSQL", "SQL Server", "SQLite", "Supabase"]
-    currently  = "Building things and breaking stuff (on purpose)"
-    fun_fact   = "I talk to rubber ducks when debugging 🦆"
+class HunPhanuth:
+    name        = "HUN Phanuth"
+    alias       = "Steven Hazad"
+    location    = "Cambodia 🇰🇭"
+    studies     = ["Computer Science", "Air Traffic Management ✈️"]
+    portfolio   = "https://hunphanuth.vercel.app/"
+    email       = "phanuth.hun@gmail.com"
+    languages   = ["Python", "JavaScript", "TypeScript", "C#", "Java", "PHP", "C/C++", "R"]
+    interests   = ["System Architecture", "Full-Stack Dev", "Data Engineering", "Cloud"]
+    available   = True  # Open to work & collaborations
+    motto       = "Clean architecture. Systems that breathe. 🌬️"
 ```
 
 ---
@@ -32,7 +37,7 @@ class Steven:
 
 **Languages**
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -65,50 +70,9 @@ class Steven:
 
 <br/>
 
-<!-- Animated streak stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Steven-Hazad&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Steven-Hazad&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Steven-Hazad/Steven-Hazad/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚠️ **To enable the snake:** Go to your repo → **Actions** tab → enable workflows → add this file as `.github/workflows/snake.yml`:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Steven-Hazad
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
-## 📈 Activity Graph
-
-[![Steven's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steven-Hazad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -122,11 +86,74 @@ class Steven:
 
 ---
 
+## 📈 Activity Graph
+
+[![Phanuth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steven-Hazad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<!-- Animated footer wave -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+![snake gif](https://github.com/Steven-Hazad/Steven-Hazad/blob/output/github-contribution-grid-snake-dark.svg)
 
-*Thanks for visiting! Drop a ⭐ if you like what you see.*
+</div>
+
+<details>
+<summary>⚙️ How to enable the snake animation (click to expand)</summary>
+
+Create `.github/workflows/snake.yml` in this repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Steven-Hazad
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions tab → enable workflows → run manually once**.
+
+</details>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+| | |
+|---|---|
+| 🌐 Portfolio | [hunphanuth.vercel.app](https://hunphanuth.vercel.app/) |
+| 💼 LinkedIn | [hun-phanuth-9617b1354](https://www.linkedin.com/in/hun-phanuth-9617b1354/) |
+| 📘 Facebook | [hun.phanuth.2025](https://www.facebook.com/hun.phanuth.2025) |
+| 📸 Instagram | [ste7en.haz4d](https://www.instagram.com/ste7en.haz4d/) |
+| 📧 Email | [phanuth.hun@gmail.com](mailto:phanuth.hun@gmail.com) |
+
+*Have a project in mind? Let's build something great together.* 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&text=Clean%20architecture.%20Systems%20that%20breathe.&fontSize=14&fontColor=ffffff&fontAlignY=65)
 
 </div>
