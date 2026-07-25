@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 ```python
 class HunPhanuth:
@@ -33,7 +33,7 @@ class HunPhanuth:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -61,7 +61,7 @@ class HunPhanuth:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -74,65 +74,11 @@ class HunPhanuth:
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Steven-Hazad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Activity Graph
+##  Activity Graph
 
 [![Phanuth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steven-Hazad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Steven-Hazad/Steven-Hazad/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<details>
-<summary>⚙️ How to enable the snake animation (click to expand)</summary>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Steven-Hazad
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions tab → enable workflows → run manually once**.
-
-</details>
-
----
 
 ## 📬 Let's Connect
 
