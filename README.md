@@ -80,7 +80,7 @@ class HunPhanuth:
 [![Phanuth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steven-Hazad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 📬 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
