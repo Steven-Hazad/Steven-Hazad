@@ -70,12 +70,11 @@ class HunPhanuth:
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Steven-Hazad&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Steven-Hazad&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Steven-Hazad&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 ##  Activity Graph
 
