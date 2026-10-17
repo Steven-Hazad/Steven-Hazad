@@ -59,23 +59,7 @@ class HunPhanuth:
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
----
 
-##  GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Steven-Hazad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Steven-Hazad&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="165" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Steven-Hazad&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Steven-Hazad&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-
-</div>
-<br/>
 
 
 ##  Activity Graph
