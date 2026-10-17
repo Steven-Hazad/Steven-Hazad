@@ -62,24 +62,7 @@ class HunPhanuth:
 
 
 
-##  Activity Graph
 
-[![Phanuth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Steven-Hazad&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-##  Let's Connect
-
-<div align="center">
-
-| | |
-|---|---|
-|  Portfolio | [hunphanuth.vercel.app](https://hunphanuth.vercel.app/) |
-|  LinkedIn | [hun-phanuth-9617b1354](https://www.linkedin.com/in/hun-phanuth-9617b1354/) |
-|  Facebook | [hun.phanuth.2025](https://www.facebook.com/hun.phanuth.2025) |
-|  Instagram | [ste7en.haz4d](https://www.instagram.com/ste7en.haz4d/) |
-|  Email | [phanuth.hun@gmail.com](mailto:phanuth.hun@gmail.com) |
-
-*Have a project in mind? Let's build something great together.* 🚀
 
 </div>
 
